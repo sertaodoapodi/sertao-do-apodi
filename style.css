@@ -386,21 +386,6 @@ footer {
         font-size: 32px;
     }
 
-}.saiba-mais {
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 18px;
-
-    background: #315c32;
-    color: white;
-
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: bold;
-}
-
-.saiba-mais:hover {
-    background: #d8942c;
 }
 .saiba-mais {
     display: inline-block;
