@@ -1,7 +1,15 @@
-function mostrarMensagem() {
+// Pequenas interações do site
 
-    alert(
-        "Em breve você poderá conferir mais informações sobre esta atividade do projeto Sertão do Apodi!"
-    );
+document.querySelectorAll('a[href^="#"]').forEach(link => {
 
-}
+    link.addEventListener('click', () => {
+
+        const menu = document.querySelector('.menu');
+
+        if (menu) {
+            menu.classList.remove('ativo');
+        }
+
+    });
+
+});
