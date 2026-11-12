@@ -1,0 +1,484 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Projeto Sertão do Apodi: agroecologia, tecnologia social e segurança alimentar no Semiárido Potiguar.">
+
+    <title>Sertão do Apodi | Raízes na Chapada</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- CABEÇALHO -->
+
+    <header>
+        <nav class="navbar">
+
+            <a href="#inicio">
+                <img src="imagens/logo.jpg"
+                    alt="Logo do projeto Sertão do Apodi"
+                    class="logo">
+            </a>
+
+            <ul class="menu">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">O Projeto</a></li>
+                <li><a href="#objetivos">Objetivos</a></li>
+                <li><a href="#pnae">PNAE</a></li>
+                <li><a href="#atividades">Atividades</a></li>
+                <li><a href="#galeria">Galeria</a></li>
+                <li><a href="#parcerias">Parcerias</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+
+    <!-- PÁGINA INICIAL -->
+
+    <section id="inicio" class="inicio">
+
+        <div class="inicio-conteudo">
+
+            <span class="subtitulo">
+                Desenvolvimento territorial e agroecologia
+            </span>
+
+            <h1>Sertão do Apodi</h1>
+
+            <h2>Raízes na Chapada, futuro no desenvolvimento territorial</h2>
+
+            <p>
+                Cultivando saberes, colhendo futuros no Semiárido Potiguar.
+            </p>
+
+            <a href="#sobre" class="botao">
+                Conheça o projeto
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- SOBRE O PROJETO -->
+
+    <section id="sobre" class="secao">
+
+        <div class="container">
+
+            <span class="identificador">QUEM SOMOS</span>
+
+            <h2>Sobre o projeto</h2>
+
+            <p>
+                O projeto Sertão do Apodi promove o desenvolvimento
+                territorial agroecológico, a tecnologia social e a
+                segurança alimentar e nutricional no Semiárido Potiguar.
+            </p>
+
+            <p>
+                A iniciativa valoriza os conhecimentos populares,
+                a agricultura familiar e as experiências das comunidades,
+                fortalecendo práticas sustentáveis e a participação social
+                no território da Chapada do Apodi.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- OBJETIVOS -->
+
+    <section id="objetivos" class="secao secao-clara">
+
+        <div class="container">
+
+            <span class="identificador">NOSSA ATUAÇÃO</span>
+
+            <h2>Objetivos do projeto</h2>
+
+            <div class="cards">
+
+                <article class="card">
+                    <h3>Agroecologia</h3>
+
+                    <p>
+                        Incentivar práticas sustentáveis de produção
+                        e fortalecer a agricultura familiar.
+                    </p>
+                </article>
+
+                <article class="card">
+                    <h3>Tecnologia social</h3>
+
+                    <p>
+                        Valorizar soluções construídas com a participação
+                        das comunidades e dos conhecimentos locais.
+                    </p>
+                </article>
+
+                <article class="card">
+                    <h3>Segurança alimentar</h3>
+
+                    <p>
+                        Contribuir para o acesso à alimentação adequada,
+                        saudável e culturalmente apropriada.
+                    </p>
+                </article>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- PNAE -->
+
+    <section id="pnae" class="secao pnae">
+
+        <div class="container">
+
+            <span class="identificador">POLÍTICA PÚBLICA</span>
+
+            <h2>Programa Nacional de Alimentação Escolar (PNAE)</h2>
+
+            <p>
+                O Programa Nacional de Alimentação Escolar (PNAE)
+                é uma política pública que contribui para a alimentação
+                escolar dos estudantes da educação básica pública,
+                promovendo o desenvolvimento, a aprendizagem e a
+                formação de hábitos alimentares saudáveis.
+            </p>
+
+            <div class="destaque-pnae">
+
+                <span class="porcentagem">45%</span>
+
+                <h3>Fortalecimento da agricultura familiar</h3>
+
+                <p>
+                    No mínimo 45% dos recursos federais repassados
+                    pelo FNDE ao PNAE devem ser destinados à aquisição
+                    direta de alimentos da agricultura familiar,
+                    conforme a legislação atualizada.
+                </p>
+
+            </div>
+
+            <h3 class="titulo-menor">
+                Atualizações e prioridades do programa
+            </h3>
+
+            <div class="cards">
+
+                <article class="card">
+                    <h3>Agricultura familiar</h3>
+
+                    <p>
+                        Ampliação da participação da agricultura familiar
+                        no fornecimento de alimentos para a alimentação
+                        escolar.
+                    </p>
+                </article>
+
+                <article class="card">
+                    <h3>Compras locais</h3>
+
+                    <p>
+                        Priorização dos fornecedores locais, respeitando
+                        os critérios e a ordem de prioridade definidos
+                        pela regulamentação.
+                    </p>
+                </article>
+
+                <article class="card">
+                    <h3>Inclusão social</h3>
+
+                    <p>
+                        Valorização da participação de mulheres,
+                        jovens, assentamentos da reforma agrária,
+                        povos indígenas e comunidades quilombolas.
+                    </p>
+                </article>
+
+                <article class="card">
+                    <h3>Produção agroecológica</h3>
+
+                    <p>
+                        Incentivo à aquisição de alimentos orgânicos
+                        e agroecológicos, conforme os critérios
+                        de seleção do programa.
+                    </p>
+                </article>
+
+            </div>
+
+            <a
+                href="https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="botao">
+                Acesse o portal oficial do PNAE
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- ATIVIDADES -->
+
+    <section id="atividades" class="secao">
+
+        <div class="container">
+
+            <span class="identificador">ACOMPANHE</span>
+
+            <h2>Atividades e ações</h2>
+
+            <p>
+                Conheça as experiências, atividades e ações
+                desenvolvidas pelo projeto Sertão do Apodi.
+            </p>
+
+            <div class="cards">
+
+                <article class="card atividade">
+                    <h3>Ações do projeto</h3>
+
+                    <p>
+                        Conheça as atividades realizadas
+                        pelas equipes do projeto.
+                    </p>
+
+                    <a href="https://www.instagram.com/p/DY-xUafoC-m/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Saiba mais
+                    </a>
+                </article>
+
+                <article class="card atividade">
+                    <h3>Vivências no território</h3>
+
+                    <p>
+                        Registros das experiências e ações
+                        desenvolvidas no território.
+                    </p>
+
+                    <a href="https://www.instagram.com/p/Da0oa6QoOey/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Saiba mais
+                    </a>
+                </article>
+
+                <article class="card atividade">
+                    <h3>Conhecimentos e experiências</h3>
+
+                    <p>
+                        Compartilhamento dos resultados
+                        e conhecimentos construídos.
+                    </p>
+
+                    <a href="https://www.instagram.com/p/DcJ8N0joI4n/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Saiba mais
+                    </a>
+                </article>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- GALERIA -->
+
+    <section id="galeria" class="secao secao-clara">
+
+        <div class="container">
+
+            <span class="identificador">REGISTROS</span>
+
+            <h2>Galeria</h2>
+
+            <p>
+                Registros das atividades, encontros e experiências
+                desenvolvidas pelo projeto.
+            </p>
+
+            <div class="galeria">
+
+                <img src="imagens/foto1.jpg"
+                    alt="Registro de atividade do projeto">
+
+                <img src="imagens/foto2.jpg"
+                    alt="Experiência no território">
+
+                <img src="imagens/foto3.jpg"
+                    alt="Participantes do projeto">
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- PARCERIAS -->
+
+    <section id="parcerias" class="secao parcerias">
+
+        <div class="container">
+
+            <span class="identificador">CONSTRUÇÃO COLETIVA</span>
+
+            <h2>Instituições parceiras</h2>
+
+            <p>
+                O projeto conta com a parceria e o apoio institucional
+                de instituições comprometidas com a educação,
+                a pesquisa, a ciência e o desenvolvimento social.
+            </p>
+
+            <div class="cards parceiros-cards">
+
+                <article class="card parceiro">
+
+                    <img src="imagens/ifrn.png"
+                        alt="Logotipo do IFRN">
+
+                    <h3>IFRN</h3>
+
+                    <p>
+                        Instituto Federal de Educação, Ciência
+                        e Tecnologia do Rio Grande do Norte.
+                    </p>
+
+                    <a href="https://portal.ifrn.edu.br/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Conheça a instituição
+                    </a>
+
+                </article>
+
+
+                <article class="card parceiro">
+
+                    <img src="imagens/ufrn.png"
+                        alt="Logotipo da UFRN">
+
+                    <h3>UFRN</h3>
+
+                    <p>
+                        Universidade Federal do Rio Grande do Norte.
+                    </p>
+
+                    <a href="https://ufrn.br/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Conheça a instituição
+                    </a>
+
+                </article>
+
+
+                <article class="card parceiro">
+
+                    <img src="imagens/cnpq.png"
+                        alt="Logotipo do CNPq">
+
+                    <h3>CNPq</h3>
+
+                    <p>
+                        Conselho Nacional de Desenvolvimento
+                        Científico e Tecnológico.
+                    </p>
+
+                    <a href="https://www.gov.br/cnpq/pt-br"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        Conheça a instituição
+                    </a>
+
+                </article>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTATO -->
+
+    <section id="contato" class="secao contato">
+
+        <div class="container">
+
+            <span class="identificador">FALE CONOSCO</span>
+
+            <h2>Entre em contato</h2>
+
+            <p>
+                Acompanhe nossas ações e conheça mais sobre
+                o projeto Sertão do Apodi.
+            </p>
+
+            <p>
+                E-mail:
+                <a href="mailto:sertaodoa@gmail.com">
+                    sertaodoa@gmail.com
+                </a>
+            </p>
+
+            <a href="https://www.instagram.com/sertaodoapodi/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="botao">
+                Acesse nosso Instagram
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- RODAPÉ -->
+
+    <footer>
+
+        <p>
+            Sertão do Apodi
+        </p>
+
+        <p>
+            Cultivando saberes, colhendo futuros no Semiárido Potiguar.
+        </p>
+
+        <p id="ano">
+            © 2026 Sertão do Apodi.
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
